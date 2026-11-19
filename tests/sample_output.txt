@@ -1,0 +1,7 @@
+Example advisor output for three student records after each has been entered during the same run:
+
+Academic Advisor for Aarav Mehta (CGPA 9.00): Excellent performance - maintain your current study pattern.
+Academic Advisor for Diya Shah (CGPA 7.50): Good performance - keep a steady routine and review challenging topics.
+Academic Advisor for Kabir Rao (CGPA 5.60): Requires immediate attention - meet your faculty advisor and make a study plan.
+
+The sample_input.txt file demonstrates entering one record and requesting advice. It does not seed the other two example records.
