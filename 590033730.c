@@ -18,7 +18,7 @@ typedef struct {
     char email[EMAIL_LEN];
     int year;
     int semester;
-    double sgpa[8]; /* 0 means that semester's SGPA is unavailable. */
+    double sgpa[8]; 
 } Student;
 
 static Student students[MAX_STUDENTS];
